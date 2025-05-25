@@ -12,7 +12,7 @@ A machine learning-based movie recommender that provides personalized content su
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language**: Python  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Streamlit  
